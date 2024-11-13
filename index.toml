@@ -12,12 +12,17 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "2e19ff819f8b02912c81b0f6389e3ce1a6dc8c26e22670214a318a817f1f5caf"
+hash = "ac035c12fb1ff71ba9030c173b25059aad7e7bcdf0db3dc6ab1d7a518390acfa"
 metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
 hash = "5f5935fdc3d6e516a6c45c4057a29f11879651123e07f5405b8700e4293e1aab"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
 metafile = true
 
 [[files]]
@@ -56,6 +61,11 @@ hash = "af231406c2beb3d7008aa974abede422ca96a823312631027ce1d09c662325cf"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "14655828cce3703b33029b18229fe0d4e1b04adb464028b81108ee626fe47c46"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "0983bbccfa6e60795d2330d1390b1c7fa59a4984f6ad0e28001d3199b78e81ac"
 metafile = true
@@ -72,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "40ec6cacc1f65f3aac6f72a14f95e59a76d907cd8804c0441a06d9e06fa4a73c"
+hash = "6492fd327754fc50909f3d7f5d8dab35cdf27b94f0875f29f464ae8cd3d8ae5f"
 metafile = true
 
 [[files]]
@@ -253,4 +263,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "b18ddc19b0a70f0ab2b4e652210d887d0c28b5192ea249cb0e8d0115373d8650"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "a5a1e13966760793e5595e1df66136e7f8f682702b2c5f695becc625b7ed2a06"
 metafile = true
