@@ -1,0 +1,7 @@
+name = "owo-whats-this"
+filename = "owo-whats-this-0.1.0+pre.17+1.21.jar"
+
+[download]
+url = "https://maven.wispforest.io/releases/io/wispforest/owo-whats-this/0.1.0+pre.17+1.21/owo-whats-this-0.1.0+pre.17+1.21.jar"
+hash-format = "sha256"
+hash = "618c96fe4868efa5f49a1cec2023c8b3a4397234a19ba43d0c34023ca38d4fb5"

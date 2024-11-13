@@ -1,0 +1,14 @@
+name = "Frostiful"
+filename = "frostiful-2.0.0-beta.2.jar"
+side = "both"
+pin = true
+
+[download]
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/Gp6EzP25/frostiful-2.0.0-beta.2.jar"
+hash-format = "sha1"
+hash = "d2fc5c818f7c71ed5a6c6892be26a09106b256bb"
+
+[update]
+[update.modrinth]
+mod-id = "Ae6qoBj3"
+version = "Gp6EzP25"

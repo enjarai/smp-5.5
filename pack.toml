@@ -1,0 +1,16 @@
+name = "SMP 5.5: Tricky Situation"
+author = "enjarai"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "58238e00d23bf9dcfffebadd42cd920649faba9bd431202da2f3c185eff1d1c7"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]
