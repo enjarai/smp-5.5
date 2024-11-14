@@ -166,6 +166,11 @@ hash = "630bd0430ec1e60f5c3393b852a9844d5867016146e9caba7b8335e1517aa1c4"
 metafile = true
 
 [[files]]
+file = "mods/neruina.pw.toml"
+hash = "c8b5adbf5c9ce1bace4529e319df599c264700cced68ec91140da7eac3aba2f5"
+metafile = true
+
+[[files]]
 file = "mods/ok-boomer.pw.toml"
 hash = "a60c44f47cbaa90e20fbe426e4a29c7d1f40f68381cb52b2cb63b7595dd64b13"
 metafile = true
