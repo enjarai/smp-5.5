@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "5f5935fdc3d6e516a6c45c4057a29f11879651123e07f5405b8700e4293e1aab"
+hash = "772c6f785b2d368bbb4efbc924a13752fb39bcb8e48ca4f0e621d543612976b8"
 metafile = true
 
 [[files]]
@@ -71,6 +71,11 @@ hash = "0983bbccfa6e60795d2330d1390b1c7fa59a4984f6ad0e28001d3199b78e81ac"
 metafile = true
 
 [[files]]
+file = "mods/dont-do-that.pw.toml"
+hash = "e8f0521c7ce9c551981db988749aef5694af6ee9dcd53e62a3f259827720f73e"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
 metafile = true
@@ -108,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/frostiful.pw.toml"
 hash = "bcd3b915c283c1371c572f1ae53a5e71aaa8ff974e462137c0ea82ab0bef312b"
+metafile = true
+
+[[files]]
+file = "mods/getdown.pw.toml"
+hash = "ae810de11d0dc6cb6ad18bfe92f66aa9958b4ba2fd3ff490fc8cf022ffd246f7"
 metafile = true
 
 [[files]]
@@ -253,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/trickster.pw.toml"
 hash = "432f6119c09d4594d981a08727289c66a62d92b0d646fef6a91834434ed628a5"
+metafile = true
+
+[[files]]
+file = "mods/wearthat.pw.toml"
+hash = "85517bd0a8b596f03bc3fe0234369748af1ed6e49db3b7f6369b982dc6f96cd7"
 metafile = true
 
 [[files]]

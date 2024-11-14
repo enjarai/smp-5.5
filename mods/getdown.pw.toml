@@ -1,0 +1,13 @@
+name = "GetDown"
+filename = "getDown-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cget0DUO/versions/GiAVlHHE/getDown-1.3.0.jar"
+hash-format = "sha1"
+hash = "9a0d2503f8c2049d90926404647e74c287dd4cee"
+
+[update]
+[update.modrinth]
+mod-id = "cget0DUO"
+version = "GiAVlHHE"

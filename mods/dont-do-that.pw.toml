@@ -1,0 +1,13 @@
+name = "Don't Do That"
+filename = "dontDoThat-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FBfbX7OM/versions/4Rj23pHm/dontDoThat-1.1.0.jar"
+hash-format = "sha1"
+hash = "05ae9c3dd3dd19570810babaec26d7406492dc84"
+
+[update]
+[update.modrinth]
+mod-id = "FBfbX7OM"
+version = "4Rj23pHm"
