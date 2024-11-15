@@ -12,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "ac035c12fb1ff71ba9030c173b25059aad7e7bcdf0db3dc6ab1d7a518390acfa"
+hash = "77fbd222f2eeed1e0a2063e384f49b30fb8ff74f02b8adf11a23d72475224d46"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "432f6119c09d4594d981a08727289c66a62d92b0d646fef6a91834434ed628a5"
+hash = "950ec514203ac8880466b9b06eaf45771fd8700049dde0ca4e343fd6e3f9c538"
 metafile = true
 
 [[files]]
