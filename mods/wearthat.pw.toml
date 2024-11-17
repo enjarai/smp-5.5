@@ -1,6 +1,6 @@
 name = "WearThat"
 filename = "wearthat-1.21.X_1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/FT20RvJM/versions/JiK4cErN/wearthat-1.21.X_1.0.0.jar"

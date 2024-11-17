@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "fd902023333e13ae8e97a2a85d8732d6e60bc5479274d2308193c469d995fb84"
+hash = "315ea30573b3ae6dfe4114b2d0341234c43a47e0c9196a89d6f0fc2aca0b3aaa"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "11d49c7873f93ef76006572df8c2bd929683fc03dd2da59531872b15b6a5d93b"
+hash = "f792d0ce3010cf515a298c3542961b0841d703dae39aae242eecc5ff0e6c3be7"
 metafile = true
 
 [[files]]
@@ -238,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
 metafile = true
 
 [[files]]
@@ -262,12 +267,12 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "6a9888bc0f103e5da2483398716f75a76c03a52f316c5440a11edf7b4d98e3a7"
+hash = "d431e2713ce6b4b97b0c837b4f6ec094b607937ace8663c9a48ef95f8aa75d64"
 metafile = true
 
 [[files]]
 file = "mods/wearthat.pw.toml"
-hash = "85517bd0a8b596f03bc3fe0234369748af1ed6e49db3b7f6369b982dc6f96cd7"
+hash = "f2cdcdeb4c6c0aa04e961e38bae6143008399fc706dae094c5420ee09e8606f2"
 metafile = true
 
 [[files]]
