@@ -1,7 +1,7 @@
 name = "affinity"
-filename = "affinity-0.1.6-pre.11.21.jar"
+filename = "affinity-0.1.6-pre.21.21.jar"
 
 [download]
-url = "https://static.enjarai.dev/jars/affinity-0.1.6-pre.11.21.jar"
+url = "https://static.enjarai.dev/jars/affinity-0.1.6-pre.21.21.jar"
 hash-format = "sha256"
-hash = "e8dee5e809159517431a4d30d1d2bd86da193687ae2e2f498af862fc298a02ff"
+hash = "2d89c8c54532a116696b17f6a8e3279dd7b586f48ae71fc8cafe193ab107e15f"
