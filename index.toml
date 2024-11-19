@@ -80,6 +80,11 @@ hash = "14655828cce3703b33029b18229fe0d4e1b04adb464028b81108ee626fe47c46"
 metafile = true
 
 [[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "5edea83480b9f8124b7413b89906a65cadae7c79556895f81919e3deb4f00725"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "0983bbccfa6e60795d2330d1390b1c7fa59a4984f6ad0e28001d3199b78e81ac"
 metafile = true
@@ -97,6 +102,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "01e471af0769f08cb24a53df4971f01a05370f19a8221d62bd2b1aee0f1ccab1"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "67659ef2465f57a445782f5d6ea71ff4b00cdfd56abc763fa973032c1d36bdcc"
 metafile = true
 
 [[files]]
@@ -220,6 +230,11 @@ hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
+file = "mods/raknetify.pw.toml"
+hash = "69154c7232d938caba0375a0ba0dab79423e2d56e1aba0257dc14713fea72d2e"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "d6d75c816faf28869d9b0da6c417df455aa521e9704107da3dcfb2cd6c02da1f"
 metafile = true
@@ -286,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "43b57fe4f6ae7a77ae73c7f20537e57344a5fe51813a22b876d0d6fe6731c9a2"
+hash = "756573acc2b99a6bf1403a7e66f81a4fc4c88de88b047f4fb92d2ebb77048462"
 metafile = true
 
 [[files]]

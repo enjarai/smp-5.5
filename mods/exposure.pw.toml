@@ -1,0 +1,7 @@
+name = "exposure"
+filename = "exposure-fabric-1.7.6.jar"
+
+[download]
+url = "https://static.enjarai.dev/jars/exposure-fabric-1.7.6.jar"
+hash-format = "sha256"
+hash = "0b0fe94050af2d9b7995a189460e056ca7ae99f77fa5319a01eaed7a266de965"
