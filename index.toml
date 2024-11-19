@@ -36,6 +36,11 @@ hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
 metafile = true
 
 [[files]]
+file = "mods/chowl.pw.toml"
+hash = "b30f817d6ef1b6d015964d46a4c6b7198a8d9d399429815bbe48793b15377178"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
