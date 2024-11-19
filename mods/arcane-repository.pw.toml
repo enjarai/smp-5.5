@@ -1,0 +1,7 @@
+name = "arcane-repository"
+filename = "arcane_repository-0.2.0-alpha.1+1.21.1.jar"
+
+[download]
+url = "https://maven.enjarai.dev/releases/dev/enjarai/arcane_repository/0.2.0-alpha.1+1.21.1/arcane_repository-0.2.0-alpha.1+1.21.1.jar"
+hash-format = "sha256"
+hash = "6568e17748852eed85fed193b90c6bc9dc4886cc4e917999e67cff4449465f62"

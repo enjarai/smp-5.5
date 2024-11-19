@@ -26,6 +26,11 @@ hash = "c842647bf2f4cc2bbe7d1f1b14ee866437cdecf42aacb07dacc3a11501ccd8d6"
 metafile = true
 
 [[files]]
+file = "mods/arcane-repository.pw.toml"
+hash = "cb7a9e3093c4feb86317e725800adbb01e6c898ff9e9555a9d7931d4b4d7c201"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ab72b447ed976a93ce1124524295ab8a469438b741bdc224aefb1ad7d881e0cf"
 metafile = true
