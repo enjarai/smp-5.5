@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/interactic.pw.toml"
-hash = "816282debce91c42a3c91178d65c553704f6bc7ce3bdc9fe4c70a072457f293c"
+hash = "990e006d757e050ee3707799dd6e2467a0cb580b9194b8b17fb31172cc3038be"
 metafile = true
 
 [[files]]
