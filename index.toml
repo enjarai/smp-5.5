@@ -16,7 +16,7 @@ metafile = true
 
 [[files]]
 file = "mods/aether.pw.toml"
-hash = "77fbd222f2eeed1e0a2063e384f49b30fb8ff74f02b8adf11a23d72475224d46"
+hash = "0cc0626c0ede387b21a921c68397557e37198101476b660a7a80736e5564c1de"
 metafile = true
 
 [[files]]
@@ -152,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
+metafile = true
+
+[[files]]
+file = "mods/interactic.pw.toml"
+hash = "816282debce91c42a3c91178d65c553704f6bc7ce3bdc9fe4c70a072457f293c"
 metafile = true
 
 [[files]]
