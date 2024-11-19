@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/affinity.json5"
+hash = "82dbf86438dd499568f1962311d46659a0deccb921d3122b79121eaf5bb6df63"
+
+[[files]]
 file = "mods/accessories-tc-layer.pw.toml"
 hash = "f197fd8bab2a855da0218a7221f5f984ba4d2af92486dcf6cdf5543112be90fd"
 metafile = true
