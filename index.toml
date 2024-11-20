@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/affinity.pw.toml"
-hash = "dd0c22c9be5615784133bb833016cd409af9f3197a2876b15b8459e0ef4ad967"
+hash = "74077e75f978199727fa7c80555990efbb113b9b17f0e88c98fcb90fffb605a7"
 metafile = true
 
 [[files]]
@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/arcane-repository.pw.toml"
-hash = "cb7a9e3093c4feb86317e725800adbb01e6c898ff9e9555a9d7931d4b4d7c201"
+hash = "f4b2dc83027d68316c572b3d69ef3bb56a455d9cf5a794861bf2740c7280c11b"
 metafile = true
 
 [[files]]
@@ -160,18 +160,13 @@ hash = "380ed8c068e29b37c218d348c660a51d19704b53c2a0d53fa9a0f715fe9ce2e2"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
-metafile = true
-
-[[files]]
 file = "mods/interactic.pw.toml"
 hash = "990e006d757e050ee3707799dd6e2467a0cb580b9194b8b17fb31172cc3038be"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "94fa47ee154338d1bd09b98d242ef7f7c56fadceb941cd4ee583b0edc046d209"
+hash = "e9b5551664b13354576e4c22a01d70eb355f6cb8014b1ce84350d2da27c46576"
 metafile = true
 
 [[files]]
@@ -236,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d6d75c816faf28869d9b0da6c417df455aa521e9704107da3dcfb2cd6c02da1f"
+hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
 metafile = true
 
 [[files]]
@@ -261,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3ea2e4d3f05aeb212b750f001c94db833dc34a7b292abefbc570bfb3b4d27f80"
+hash = "fa41e05d17ae825fe60001763b2160c15b3998fb0352fce0e70af67172afb262"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b82effb4e956abefdffab14dcdb34de3124ea02c57ca0586d73be0effd68daa6"
+hash = "a5b08175ba6a8ffa2cb04d09e942a5bd40295aded769de82b26fd9fc80e3b1a5"
 metafile = true
 
 [[files]]
