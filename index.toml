@@ -45,6 +45,11 @@ hash = "3b4182d5fd25e524f21b8d3197267adb5237599ac15daed23411e17b6e27073c"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
+metafile = true
+
+[[files]]
 file = "mods/chowl.pw.toml"
 hash = "b30f817d6ef1b6d015964d46a4c6b7198a8d9d399429815bbe48793b15377178"
 metafile = true
