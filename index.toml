@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/neruina.pw.toml"
-hash = "c8b5adbf5c9ce1bace4529e319df599c264700cced68ec91140da7eac3aba2f5"
+hash = "3107ff60e42322ff076a454e09805e3f276814b5219b9a119f73fccd6f15e1ba"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "9924e979d48e9cddf10add29154d79d6bf9d5742ab7d44bd1b5d5cdf165bb77b"
+hash = "226e09f27d2fcc8a317ca3edd57cb35bd36819aa9b597607c52c04d1bb8a921a"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/trickster.pw.toml"
-hash = "756573acc2b99a6bf1403a7e66f81a4fc4c88de88b047f4fb92d2ebb77048462"
+hash = "9f0dba1b93edf7be56c5efc4a2cbe83583a3e880abe95b2b6d9c710efc2cc1e7"
 metafile = true
 
 [[files]]
