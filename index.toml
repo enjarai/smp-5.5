@@ -50,11 +50,6 @@ hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
 metafile = true
 
 [[files]]
-file = "mods/chowl.pw.toml"
-hash = "b30f817d6ef1b6d015964d46a4c6b7198a8d9d399429815bbe48793b15377178"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -132,6 +127,11 @@ metafile = true
 [[files]]
 file = "mods/figura.pw.toml"
 hash = "e8d6fa99ba06945559de6619de1ea03687e50790162293c93e4e5037e6a1ceaf"
+metafile = true
+
+[[files]]
+file = "mods/flashfreeze.pw.toml"
+hash = "1dc799332915cb73f6cfc5d902018acadfa47ce8bf83332a1705771b380e5b77"
 metafile = true
 
 [[files]]

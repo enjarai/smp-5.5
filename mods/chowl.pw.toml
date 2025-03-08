@@ -1,7 +1,0 @@
-name = "chowl"
-filename = "chowl-industries-1.0.0-data-is-ficksed1.21.jar"
-
-[download]
-url = "https://static.enjarai.dev/jars/chowl-industries-1.0.0-data-is-ficksed1.21.jar"
-hash-format = "sha256"
-hash = "b017ffd4de8e7d33349606881408cf2aaa4c93d3a9cca95e06656d3e5d3207d6"

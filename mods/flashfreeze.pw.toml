@@ -1,0 +1,13 @@
+name = "FlashFreeze"
+filename = "flashfreeze-0.4.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OX7oyAQX/versions/f125UCsK/flashfreeze-0.4.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "653f475f0ceed189e608ee398078d8290299dc618edfdceb8a8a0e117a6c5f0cbf45acf745ff5593d35d328ab103344e1c160934d77b6fab2fcbdd05249ec854"
+
+[update]
+[update.modrinth]
+mod-id = "OX7oyAQX"
+version = "f125UCsK"
