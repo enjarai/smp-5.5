@@ -50,11 +50,6 @@ hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
 metafile = true
 
 [[files]]
-file = "mods/chowl.pw.toml"
-hash = "389c0cda5c8e76c52198761285d8cd873246cf63fd925e38a03ce05c04b0c4b5"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
