@@ -1,0 +1,7 @@
+name = "chowl"
+filename = "chowl-industries-1.0.0-data-is-ficksed1.21-unlavendered.jar"
+
+[download]
+url = "https://static.enjarai.dev/jars/chowl-industries-1.0.0-data-is-ficksed1.21-unlavendered.jar"
+hash-format = "sha256"
+hash = "4d4f41a28023f6a6846dbb348ed5bd2c1e41d5595aac62791e1800c332a1c04f"

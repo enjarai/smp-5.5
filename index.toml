@@ -50,6 +50,11 @@ hash = "4b7d1bdb1c0e8e349be41cad57e61abdfaf47eccb4c30e4c4bf32960f2260835"
 metafile = true
 
 [[files]]
+file = "mods/chowl.pw.toml"
+hash = "389c0cda5c8e76c52198761285d8cd873246cf63fd925e38a03ce05c04b0c4b5"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -150,11 +155,6 @@ hash = "09103d76f3913ebd9de465a7c0203f178ec63946c3055dca3119c424806c3e2e"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "56c0042305fc635e08d9bed8ef3b74071389ce6900a0b4f9e85b2a1067de1369"
-metafile = true
-
-[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "615d58d15342ef1cb6ffbe72a6ff1e5b9b379f966d813756b25dfb1fb7dd5dce"
 metafile = true
@@ -212,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
-metafile = true
-
-[[files]]
-file = "mods/owo-whats-this.pw.toml"
-hash = "d9d62a58d8f4eae43c8dab85249128d9056d322def93ead769ff912c5a396155"
 metafile = true
 
 [[files]]
