@@ -150,11 +150,6 @@ hash = "09103d76f3913ebd9de465a7c0203f178ec63946c3055dca3119c424806c3e2e"
 metafile = true
 
 [[files]]
-file = "mods/illusionist.pw.toml"
-hash = "b58ed4f50a4fa8c7ee9c3df42013ce691e2f7ecd9a37170d9eada5456e110446"
-metafile = true
-
-[[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "615d58d15342ef1cb6ffbe72a6ff1e5b9b379f966d813756b25dfb1fb7dd5dce"
 metafile = true
