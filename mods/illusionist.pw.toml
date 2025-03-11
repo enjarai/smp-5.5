@@ -1,0 +1,13 @@
+name = "Illusionist"
+filename = "illusionist-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FA8JwR6I/versions/AYZCFjb3/illusionist-2.0.0.jar"
+hash-format = "sha512"
+hash = "c7d9286ad9c6dcca2484878c02492c438d5e1aa040a54156bed6945f3083be4a80aa1922ec20567b558df40cc60d7da05233be3735b983b9621039f47ef97b08"
+
+[update]
+[update.modrinth]
+mod-id = "FA8JwR6I"
+version = "AYZCFjb3"
